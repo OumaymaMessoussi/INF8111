@@ -1,0 +1,5 @@
+order_id,transaction
+1,a;b;c;f
+2,d;b;a;e
+3,c;b
+4,b;c
